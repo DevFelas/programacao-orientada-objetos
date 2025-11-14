@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fadb179-6373-43a9-8fe1-e636dd7efc98" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../src/exercicios/lista01/ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/exercicios/lista01/ex07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/exercicios/lista01/ex08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/exercicios/lista01/ex09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/exercicios/lista01/ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/exercicios/lista01/ex11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/exercicios/lista01/ex12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/exercicios/lista01/ex13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/exercicios/lista01/ex14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/exercicios/lista01/ex15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/exercicios/lista01/ex16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/exercicios/lista01/ex17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/aulas/arrays_e_matrizes/Vetores.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/aulas/a04Arrays_e_matrizes/Vetores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/exercicios/lista01/ex03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/exercicios/lista01/ex03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/exercicios/lista01/ex04.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/exercicios/lista01/ex04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/exercicios/lista01/ex05.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/exercicios/lista01/ex05.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="35AS9KWojmc0FJUlJxuAeZ7oRj9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/perei/OneDrive/Documentos/Análise e Desenvolvimento de sistemas/modulo-02/programacao-orientada-objetos/prova"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fadb179-6373-43a9-8fe1-e636dd7efc98" name="Changes" comment="" />
+      <created>1762551230498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762551230498</updated>
+    </task>
+    <servers />
+  </component>
+</project>
